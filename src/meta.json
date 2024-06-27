@@ -1,0 +1,14 @@
+{
+  "@name": "hjcx-vip: 海角纯享版 破解VIP,观看所有收费视频",
+  "@run-at": "document-idle",
+  "@match": [
+    "https://haijiao.com/*",
+    "https://www.haijiao.com/*",
+    "https://www.hjcx.org/*",
+    "https://hjcx.com/*",
+    "*/topic/*"
+  ],
+  "@license": "MIT",
+  "@include": [],
+  "@require": []
+}
