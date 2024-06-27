@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name           hjcx-vip: 海角纯享版 破解VIP,观看所有收费视频
 // @namespace      https://github.com/foreverone0/hjcx_vip
-// @version        1.0.0
+// @version        1.0.1
 // @author         foreverone0
 // @description    破解 海角纯享版(https://hjcx.org) 收费视频.本插件完全免费,请注意甄别,避免上当受骗.
 // @homepage       https://github.com/foreverone0/hjcx_vip#readme
@@ -13,7 +13,7 @@
 // @match          https://haijiao.com/*
 // @match          https://www.haijiao.com/*
 // @match          https://www.hjcx.org/*
-// @match          https://hjcx.com/*
+// @match          https://hjcx.org/*
 // @match          */topic/*
 // @license        MIT
 // ==/UserScript==
