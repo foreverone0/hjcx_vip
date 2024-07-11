@@ -4,8 +4,8 @@
   "@match": [
     "https://haijiao.com/*",
     "https://www.haijiao.com/*",
-    "https://www.hjcx.org/*",
-    "https://hjcx.org/*",
+    "https://www.hjcx.cc/*",
+    "https://hjcx.cc/*",
     "*/topic/*"
   ],
   "@license": "MIT",
